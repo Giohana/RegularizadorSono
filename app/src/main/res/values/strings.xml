@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Regulador de Sono</string>
+    <string name="sleep_tracker_fragment">SleepTrackerFragment</string>
+    <string name="sleep_quality_fragment">SleepQualityFragment</string>
+
+    <!-- Buttons -->
+    <string name="start">Iniciar</string>
+    <string name="stop">Parar</string>
+    <string name="clear">Limpar</string>
+
+    <!-- Icons -->
+    <string name="quality_0">Qualidade do sono 0</string>
+    <string name="quality_1">Qualidade do sono 1</string>
+    <string name="quality_2">Qualidade do sono 2</string>
+    <string name="quality_3">Qualidade do sono 3</string>
+    <string name="quality_4">Qualidade do sono 4</string>
+    <string name="quality_5">Qualidade do sono 5</string>
+
+    <!--TextView com HTML -->
+    <string name="title"><![CDATA[<h3>AQUI ESTÃO SEUS DADOS DO SONO</h3>]]></string>
+    <string name="start_time"><![CDATA[<b>Inicio:</b>]]></string>
+    <string name="end_time"><![CDATA[<b>Fim:</b>]]></string>
+    <string name="quality"><![CDATA[<b>Qualidade:</b>]]></string>
+    <string name="hours_slept"><![CDATA[<b>Horas:Minutos:Segundos</b>]]></string>
+
+    <!--strings - qualidade do sono -->
+    <string name="how_was_hour_sleep">Como foi o seu sono?</string>
+    <string name="zero_very_bad">Muito Ruim</string>
+    <string name="one_poor">Ruim</string>
+    <string name="two_soso">Mais ou Menos</string>
+    <string name="three_ok">OK</string>
+    <string name="four_pretty_good">Muito bom</string>
+    <string name="five_excellent">Excelente!</string>
+
+    <!-- display para mostrar ao usuario quando ele apaga os dados -->
+    <string name="cleared_message">Todos os seus dados se foram para sempre.</string>
+    <string name="header_text">Resultados do Sono</string>
+    <string name="close">Fechar</string>
+    <string name="minutes_length">%d minutos na %s</string>
+    <string name="hours_length">%d horas na %s</string>
+    <string name="seconds_length">%d segundos na %s</string>
+</resources>
